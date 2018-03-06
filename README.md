@@ -1,5 +1,7 @@
-# Uniqorn TLA+ Specification and Model Checking 
+### Uniqorn TLA+ Specification and Model Checking 
 
-## basic simplified specification (basicuniqorn.tla) 
+#### informal proof of the uniqueness and consistency of Uniqorn: uniqorn-consistency-proof.pdf 
 
-## full-fledged specification (uniqorn.tla), compliant to a reference implementation
+#### basic simplified specification: basicuniqorn.tla 
+
+#### full-fledged specification compliant to a reference implementation: uniqorn.tla
